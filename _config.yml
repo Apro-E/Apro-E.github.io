@@ -1,8 +1,8 @@
-title: Stack Problems
+title: Recent Works
 description: My Personal Stack Problems
-author: Agus Makmun
+author: The little Forest
 github: https://github.com/Apro-E
-about: I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django.
+about: 조용하고 적적한 공간
 disqus_shortname: stackproblems
 google_analytics: UA-XXXXXXXX-Y
 
@@ -15,14 +15,14 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-facebook
-      link: "#"
-    - icon: fa-twitter
-      link: "#"
+    # - icon: fa-facebook
+      # link: "#"
+    # - icon: fa-twitter
+      # link: "#"
     - icon: fa-linkedin
-      link: "#"
-    - icon: fa-stack-exchange
-      link: "#"
+      link: "www.linkedin.com/in/AproE"
+    # - icon: fa-stack-exchange
+      # link: "#"
     - icon: fa-github
       link: "https://github.com/Apro-E"
 
